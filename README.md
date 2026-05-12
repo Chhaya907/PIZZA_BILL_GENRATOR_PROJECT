@@ -50,13 +50,13 @@ pizza_bill_project/
 2. Compile the Java files:
 
 ```bash
-javac body.java written.java
+javac bill.java body.java
 ```
 
 3. Run the main file:
 
 ```bash
-java written
+java bill
 ```
 
 ---
