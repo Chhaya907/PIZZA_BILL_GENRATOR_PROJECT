@@ -4,7 +4,7 @@
 
 Pizza Bill Generator is a Core Java console-based application developed to automate the pizza ordering and billing process. The application allows users to choose different pizza types, add extra cheese, toppings, and takeaway options, then generates the final bill automatically.
 
-This project is completely developed using Core Java concepts without using any external APIs or frameworks.
+This project is completely developed using Core Java concepts without using any external AI tool.
 
 ---
 
